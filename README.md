@@ -1,6 +1,6 @@
 # Log-Operations-Walkthroug-THM
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/VivianeFerro.png" alt="Your Image Badge" />
 Tarefa 2 Configuração de Log
 
 Opções de configuração de log
